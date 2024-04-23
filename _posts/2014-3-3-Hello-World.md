@@ -39,7 +39,7 @@ Before you begin, ensure that you have the following installed:
    - bash
      docker network create my-network
      
-     ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/4.png)
+     ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/14.png)
 1. *MySQL Database:*
 
    - Navigate to the mysql directory.
