@@ -26,7 +26,7 @@ Before you begin, ensure that you have the following installed:
 - *mysql*: Dockerfile and configurations for the MySQL database.
 
 ## Dockerfile(Database)
-![Alt Text](https://raw.githubusercontent.com/chitt31/chitt31.github.io/master/images/33.PNG)
+![Alt Text](https:/raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/1.png.png)
 
 
 ## Dockerfile(Backend)
