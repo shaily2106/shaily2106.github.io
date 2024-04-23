@@ -1,5 +1,5 @@
-layout: post
-title: Docker Three Tier Architecture 
+Layout: Post
+Title: Docker 3-Tier Architecture Tutorial 
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
@@ -49,6 +49,7 @@ Before you begin, ensure that you have the following installed:
      
      
      ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/5.png)
+     ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/15.png)
      
    - Run the MySQL container:
      bash
@@ -90,6 +91,7 @@ Before you begin, ensure that you have the following installed:
      docker build -t frontend .
      
      ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/11.png)
+     ![Alt Text](https://raw.githubusercontent.com/shaily2106/shaily2106.github.io/master/images/16.png)
    - Run the frontend container:
      bash
      docker run -d --name frontend-container --network=three-tier-network -p 80:80 frontend
